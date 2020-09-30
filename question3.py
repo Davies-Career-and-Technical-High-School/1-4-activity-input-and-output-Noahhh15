@@ -1,0 +1,1 @@
+print("\"Computer Science is no more about computers than\n astronomy is about telescopes\" \n- Edsger W. Dijkstra")
